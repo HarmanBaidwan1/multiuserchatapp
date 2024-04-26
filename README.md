@@ -1,4 +1,4 @@
-# Chit Chat - Java-Based Secure Multi-User Chat Application
+# Chatting App - Java-Based Secure Multi-User Chat Application
 
 ## Project Overview
 "Chit Chat" is an advanced, Java-based multi-user chat application designed to deliver a secure and efficient online communication experience. Built using a client-server architecture, the application combines Java Swing for its graphical user interface, JDBC for robust database interactions, and socket programming for real-time communication. This project emphasizes security, performance, and user experience, making it ideal for educational purposes and small to medium-sized enterprises looking for reliable communication tools.
