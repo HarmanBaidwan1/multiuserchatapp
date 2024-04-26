@@ -22,7 +22,8 @@ Sure, here's a revised section of the README for your GitHub repository, specifi
 
 ### Prerequisites
 - Java JDK 8 or above
-- MySQL Server (or any other JDBC-compliant database)
+- MySQL
+- JDBC driver
 
 ### Installation
 1. **Clone the repository:**
